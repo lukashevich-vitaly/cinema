@@ -269,9 +269,3 @@ body {
     padding: 24px 52px;
     text-decoration: none;
 }
-
-@media (max-width: 1200px) {
-    .container {
-        max-width: 960px;
-    }
-}
